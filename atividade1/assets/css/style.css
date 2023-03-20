@@ -58,13 +58,16 @@ body{
 
 .div-img-description{
     display: flex;
-    padding-left: 115px;
     margin-bottom: 5%;
 }
 
 .img-description{
-    width: 90%;
-    height: 400px;
+    padding-left: 350px;
+    padding-right: 350px;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    position: relative;
 }
 
 .second-presentation{
